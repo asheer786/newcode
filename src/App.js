@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lavanya Govada
+          asheer shaik
         </a>
       </header>
     </div>
